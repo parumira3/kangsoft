@@ -102,7 +102,7 @@
             <div class="row no-gutter">
                 <div class="col-lg-3 col-md-6 col-sm-6 work">
                     <a href="images/work-1.jpg" class="work-box">
-                        <img src="images/work-1.jpg" alt="">
+                        <img src="images/orient_paint\work-1.jpg" alt="용-1">
                         <div class="overlay">
                             <div class="overlay-caption">
                                 <h5>Project Name</h5>

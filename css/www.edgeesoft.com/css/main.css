@@ -9,7 +9,7 @@ p {
   color: #6c7279; }
 
 h1 {
-  font-size: 40px;
+  font-size: 65px;
   color: #2d3033; }
 
 h2 {
@@ -260,22 +260,22 @@ ul li {
 	$Banner
 ========================================================================== */
 .banner {
-  background-image: url(../images/banner.jpg);
+  /* background-image: url(../images/banner.jpg); */
   background-position: center top;
   background-repeat: no-repeat;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
   background-size: cover;
-  min-height: 750px; }
+  min-height: 750px;
+  }
 
 .banner-text {
   padding-top: 25%; }
   .banner-text h1 {
-    color: #fff;    
-    font-family: 'Jeju Hallasan', cursive;
-    /* font-family: "Open Sans", sans-serif; */
-    font-weight: 400;
+    color: #fff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
     text-transform: uppercase; }
   .banner-text p {
     color: #fff;
